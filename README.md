@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravi-bhundia" target="_blank">
+  <a href="https://www.linkedin.com/in/ravi-bhundia">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ravibhundia&style=for-the-badge&color=0e75b6" alt="Profile Views" />
