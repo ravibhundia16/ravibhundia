@@ -141,8 +141,8 @@ Gujarat Technological University | 2016 – 2020 | CGPA: 7.89
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravibhundia&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhundia&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravibhundia16&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhundia16&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
